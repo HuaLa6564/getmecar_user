@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942215868257",
+    "firebase_url": "https://getmecar-43589.firebaseio.com",
+    "project_id": "getmecar-43589",
+    "storage_bucket": "getmecar-43589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942215868257:android:f25500e1afd09086579f20",
+        "android_client_info": {
+          "package_name": "com.example.getmecar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfa6euxYqzrTrrkAAKXXQXiTYgYQJEmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
